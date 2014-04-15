@@ -1,4 +1,5 @@
-# Application Web Moderne en Java - The CodeStory Way.
+# Application Web Moderne en Java
+## The CodeStory Way.
 
 Venez participer à un Hand's On Lab de 3 heures. L'objectif est simple : apprendre à développer une application web moderne en Java. Rapidement, de manière pragmatique et en toute confiance.
 
