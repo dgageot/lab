@@ -36,6 +36,11 @@ bower install
 webdriver-manager update
 ```
 
+## Viens avec ta machine
+
+.. avec de la batterie pour tenir les 3h, ou avec son cordon d'alim.
+Si tu n'as pas de machine, trouve toi un binôme, une machine pour deux, ca le fait très bien.
+
 Dors au moins 7h avant de venir, ca va être dense.
 
 -- David & Jean-Laurent
