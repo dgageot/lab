@@ -33,7 +33,7 @@ mvn dependency:go-offline
 npm install -g bower
 npm install
 bower install
-webdriver-manager update
+./node_modules/.bin/webdriver-manager update
 ```
 
 ## Viens avec ta machine
