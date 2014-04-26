@@ -9,9 +9,11 @@ Au menu : du Java 8, un poil d'Angular, un soupçon de CoffeeScript, du pair-pro
 
 Lundi, au boulot, vous ne verrez plus votre projet java de la même manière.
 
-## Devoxx Hand's On Lab
+## Prochaines Dates 
 
-Mercredi 16 avril 2014, salle Louis Armstrong CD de 13:30 à 16:30.
+MIX-IT Hand's On : Mardi 29 avril 2014, en salle Nonaka de 14H50 à 16H50. 
+
+~~Devoxx Hand's On Lab: Mercredi 16 avril 2014, salle Louis Armstrong CD de 13:30 à 16:30.~~
 
 # Réseau
 
