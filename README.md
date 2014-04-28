@@ -1,11 +1,13 @@
 # Application Web Moderne en Java
 ## The CodeStory Way.
 
-Venez participer à un Hand's On Lab de 3 heures. L'objectif est simple : apprendre à développer une application web moderne en Java. Rapidement, de manière pragmatique et en toute confiance.
+Venez participer à un Hand's On Lab de 3 heures. L'objectif est simple : apprendre à développer une application web
+moderne en Java. Rapidement, de manière pragmatique et en toute confiance.
 
 Avec l'assistance et les démos live de David Gageot et Jean-Laurent de Morlhon.
 
-Au menu : du Java 8, un poil d'Angular, un soupçon de CoffeeScript, du pair-programming, des tests IHM, des hotkeys de malade, des plugins de fou et un cycle de développement ultra rapide. Oui vous ne rêvez pas on parle bien de Java.
+Au menu : du Java 8, un poil d'Angular, un soupçon de CoffeeScript, du pair-programming, des tests IHM, des hotkeys de
+malade, des plugins de fou et un cycle de développement ultra rapide. Oui vous ne rêvez pas on parle bien de Java.
 
 Lundi, au boulot, vous ne verrez plus votre projet java de la même manière.
 
@@ -17,8 +19,9 @@ MIX-IT Hand's On : Mardi 29 avril 2014, en salle Nonaka de 14H50 à 16H50.
 
 # Réseau
 
-Le réseau à Devoxx France sera au mieux un peu poussif, si tu veux venir à ce hand's on lab et en profiter au maximum, tu peux te préparer et installer les pré-requis avant de venir.
-Le jour J nous aurons peut être un peu de réseau, mais surtout des clés usb avec tout cela dessus.
+Le jour J, le réseau sera sans doute un peu poussif, si tu veux venir à ce hand's on lab et en profiter au maximum,
+merci de te préparer en installant les pré-requis avant de venir.
+Au pire, noue aurons des clés usb avec tout cela dessus.
 
 ## Télécharge et installe les outils essentiels aux applications web modernes.
 
@@ -27,7 +30,7 @@ Le jour J nous aurons peut être un peu de réseau, mais surtout des clés usb a
 + Installe [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) jdk8 minimum
 + Installe [Node](http://nodejs.org/download/) 0.10 minimum
 
-## Télécharge les dépendances pour le hand's on
+## Télécharge les dépendances pour le Lab
 
 ```bash
 mvn clean install

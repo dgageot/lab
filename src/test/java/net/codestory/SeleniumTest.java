@@ -4,7 +4,7 @@ import net.codestory.http.*;
 
 import org.junit.*;
 
-public class SeleniumTest extends net.codestory.selenium.SeleniumTest {
+public class SeleniumTest extends net.codestory.simplelenium.SeleniumTest {
   private WebServer webServer = new WebServer();
 
   @Before
