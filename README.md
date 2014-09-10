@@ -1,7 +1,8 @@
 # Application Web Moderne en Java
+
 ## The CodeStory Way.
 
-Venez participer à un Hand's On Lab de 3 heures. L'objectif est simple : apprendre à développer une application web
+Venez participer à un Hand's On Lab de 2 heures. L'objectif est simple : apprendre à développer une application web
 moderne en Java. Rapidement, de manière pragmatique et en toute confiance.
 
 Avec l'assistance et les démos live de David Gageot et Jean-Laurent de Morlhon.
@@ -11,39 +12,22 @@ malade, des plugins de fou et un cycle de développement ultra rapide. Oui vous 
 
 Lundi, au boulot, vous ne verrez plus votre projet java de la même manière.
 
-## Prochaines Dates 
-
-MIX-IT Hand's On : Mardi 29 avril 2014, en salle Nonaka de 14H50 à 16H50. 
-
-~~Devoxx Hand's On Lab: Mercredi 16 avril 2014, salle Louis Armstrong CD de 13:30 à 16:30.~~
-
-# Réseau
-
-Le jour J, le réseau sera sans doute un peu poussif, si tu veux venir à ce hand's on lab et en profiter au maximum,
-merci de te préparer en installant les pré-requis avant de venir.
-Au pire, noue aurons des clés usb avec tout cela dessus.
-
 ## Télécharge et installe les outils essentiels aux applications web modernes.
 
 + Installe [Git](http://git-scm.com/downloads)
 + Installe [Maven](http://maven.apache.org/download.cgi) 3.1.1 minimum
 + Installe [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) jdk8 minimum
-+ Installe [Node](http://nodejs.org/download/) 0.10 minimum
 
 ## Télécharge les dépendances pour le Lab
 
 ```bash
 mvn clean install
 mvn dependency:go-offline
-npm install -g bower
-npm install
-bower install
-./node_modules/.bin/webdriver-manager update
 ```
 
 ## Viens avec ta machine
 
-.. avec de la batterie pour tenir les 3h, ou avec son cordon d'alim.
+.. avec de la batterie pour tenir les 2h, ou avec son cordon d'alim.
 Si tu n'as pas de machine, trouve toi un binôme, une machine pour deux, ca le fait très bien.
 
 Dors au moins 7h avant de venir, ca va être dense.

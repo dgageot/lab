@@ -1,6 +1,6 @@
-package net.codestory;
+package web;
 
-import net.codestory.http.*;
+import net.codestory.http.WebServer;
 
 public class Server {
   public static void main(String[] args) {

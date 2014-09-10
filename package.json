@@ -2,32 +2,29 @@
   "name": "devoxx-codestory-lab",
   "version": "1.0.0",
   "description": "Node dependencies for devoxx-codestory-lab",
-  "main": "protractor.conf.js",
+  "main": "index.js",
+  "author": "Jean-Laurent de Morlhon && David Gageot",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "coffee-script": "^1.7.1",
+    "karma": "^0.12.16",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-safari-launcher": "^0.1.1",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-jasmine": "^0.2.2",
+    "karma-jsmockito-jshamcrest": "0.0.6",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "jsmockito": "^1.0.5",
+    "mocha": "^1.20.1",
+    "protractor": "^0.20.1",
+    "bower": "^1.3.2"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha --reporter dot google-scripts/*-test.js"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/CodeStory/devoxx-quickstart.git"
-  },
-  "author": "Jean-Laurent de Morlhon && David Gageot",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/CodeStory/devoxx-quickstart/issues"
-  },
-  "homepage": "https://github.com/CodeStory/devoxx-quickstart",
-  "devDependencies": {
-    "coffee-script": "^1.7.1",
-    "protractor": "^0.20.1",
-    "bower": "^1.3.2",
-    "chai": "^1.9.1",
-    "karma": "^0.12.9",
-    "karma-chai-plugins": "^0.2.1",
-    "karma-coffee-preprocessor": "^0.2.1",
-    "karma-chrome-launcher": "^0.1.3",
-    "karma-firefox-launcher": "^0.1.3",
-    "karma-safari-launcher": "^0.1.1",
-    "karma-ie-launcher": "^0.1.5",
-    "karma-jasmine": "^0.1.5"
   }
 }

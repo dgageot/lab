@@ -1,8 +1,8 @@
-package net.codestory;
+package web;
 
-import net.codestory.http.*;
-
-import org.junit.*;
+import net.codestory.http.WebServer;
+import org.junit.Before;
+import org.junit.Test;
 
 public class SeleniumTest extends net.codestory.simplelenium.SeleniumTest {
   private WebServer webServer = new WebServer();
@@ -18,7 +18,7 @@ public class SeleniumTest extends net.codestory.simplelenium.SeleniumTest {
   }
 
   @Test
-  public void two_developers() {
+  public void page_not_found() {
     goTo("/");
 
     find("h1").should().contain("Page not found");
