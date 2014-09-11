@@ -8,6 +8,7 @@ module.exports = function (config) {
       'target/webjars/jquery/jquery.min.js',
       'target/webjars/angularjs/angular.min.js',
       'target/webjars/angularjs/angular-animate.min.js',
+      'target/webjars/angularjs/angular-mocks.js',
 
       'app/app.coffee',
 
